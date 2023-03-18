@@ -1,9 +1,9 @@
 #EXTM3U
 MOVIE
-#EXTINF:0,video 1 - ForBiggerJoyrides
+#EXTINF:0,video 1 - ForBiggerJoyrides    tvg-logo="https://i.imgur.com/goBaCWO.png" 
 http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerJoyrides.mp4
 
 
 LIVE TV
-#EXTINF:-1 tvg-id="TV3" tvg-logo="https://i.imgur.com/RqVjnGL.png" 
+#EXTINF:0,TV3 tvg-logo="https://i.imgur.com/6IBx96Y.png" 
 https://live-xtra-sg1.global.ssl.fastly.net/live-hls/tonton1_720p/index.m3u8
