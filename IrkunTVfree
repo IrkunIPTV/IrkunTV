@@ -1,10 +1,9 @@
 #EXTM3U
-
+MOVIE
 #EXTINF:0,video 1 - ForBiggerJoyrides
 http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerJoyrides.mp4
 
-#EXTINF:0,TV3 TEST 1
-https://live-xtra-sg1.global.ssl.fastly.net/live-hls/tonton1_720p/index.m3u8
 
-#EXTINF:0,TV3 TEST 2
-https://embedtvmalaysia.blogspot.com/2021/11/tv3.html
+LIVE TV
+#EXTINF:-1 tvg-id="TV3" tvg-logo="https://i.imgur.com/RqVjnGL.png" 
+https://live-xtra-sg1.global.ssl.fastly.net/live-hls/tonton1_720p/index.m3u8
