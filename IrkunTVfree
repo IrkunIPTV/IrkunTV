@@ -1,7 +1,7 @@
 #EXTM3U
 MOVIE
-#EXTINF:-1 tvg-id="MOVIE TEST" tvg-logo="XXXXX" group-title="MOVIE",
-https://youtu.be/juB7iuZ-3tU
+#EXTINF:-1 tvg-id="MOVIE TEST" tvg-logo="https://i.imgur.com/goBaCWO.png" group-title="MOVIE",
+https://www.youtube.com/embed/juB7iuZ-3tU?controls=0
 
 
 LIVE TV
