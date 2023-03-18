@@ -2,5 +2,9 @@
 
 LIVE TV
 
+#EXTINF:-1 tvg-id="TV1" tvg-logo="https:/" group-title="MALAYSIA",
+https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/media-ueh1dqu1i_b2596000_slENG_67117.ts?id=1
+
+
 #EXTINF:-1 tvg-id="TV3" tvg-logo="https://i.imgur.com/6IBx96Y.png" group-title="MALAYSIA",
 https://live-xtra-sg1.global.ssl.fastly.net/live-hls/tonton1_720p/index.m3u8
