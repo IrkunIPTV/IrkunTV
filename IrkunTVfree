@@ -10,3 +10,9 @@ https://live-xtra-sg1.global.ssl.fastly.net/live-hls/tonton2_720p/index.m3u8
 
 #EXTINF:-1,8TV, tvg-logo="https://i.imgur.com/dCXeqOB.png" group-title="MALAYSIA",
 https://live-xtra-sg1.global.ssl.fastly.net/live-hls/tonton3_720p/index.m3u8
+
+#EXTINF:-1,TV9, tvg-logo="https://i.imgur.com/ulHvOa0.png" group-title="MALAYSIA",
+https://live-xtra-sg1.global.ssl.fastly.net/live-hls/tonton4_720p/index.m3u8
+
+#EXTINF:-1,DRAMA SANGAT, tvg-logo="https://i.imgur.com/iQkn7v8.png" group-title="MALAYSIA",
+https://live-xtra-sg1.global.ssl.fastly.net/live-hls/tonton5_720p/index.m3u8
