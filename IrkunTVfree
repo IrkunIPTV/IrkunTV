@@ -2,12 +2,11 @@
 
 LIVE TV
 
-#EXTINF:-1,Girl in the Picture (2022)
-http://syok.tv:25461/movie/AABBCC/23456/13485.mp4
-
-
 #EXTINF:-1,TV3, tvg-logo="https://i.imgur.com/6IBx96Y.png" group-title="MALAYSIA",
 https://live-xtra-sg1.global.ssl.fastly.net/live-hls/tonton1_720p/index.m3u8
 
 #EXTINF:-1,NTv7, tvg-logo="https://i.imgur.com/DLQLjEb.png" group-title="MALAYSIA",
 https://live-xtra-sg1.global.ssl.fastly.net/live-hls/tonton2_720p/index.m3u8
+
+#EXTINF:-1,8TV, tvg-logo="https://i.imgur.com/dCXeqOB.png" group-title="MALAYSIA",
+https://live-xtra-sg1.global.ssl.fastly.net/live-hls/tonton3_720p/index.m3u8
