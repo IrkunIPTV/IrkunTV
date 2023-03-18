@@ -2,8 +2,8 @@
 
 LIVE TV
 
-#EXTINF:-1,TV1, tvg-logo="https:/" group-title="MALAYSIA",
-https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/media-ueh1dqu1i_b2596000_slENG_67117.ts
+#EXTINF:-1,Girl in the Picture (2022)
+http://syok.tv:25461/movie/AABBCC/23456/13485.mp4
 
 
 #EXTINF:-1,TV3, tvg-logo="https://i.imgur.com/6IBx96Y.png" group-title="MALAYSIA",
