@@ -1,10 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1,TEST 1, tvg-logo="https://i.imgur.com/QJCJNfe.jpg" group-title="MALAYSIA",
-https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/playlist.m3u8
 
-#EXTINF:-1,TEST 2, tvg-logo="https://i.imgur.com/QJCJNfe.jpg" group-title="MALAYSIA",
-https://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/playlist.m3u8
 
 
 
@@ -32,3 +28,12 @@ https://live-xtra-sg1.global.ssl.fastly.net/live-hls/tonton5_720p/index.m3u8
 
 #EXTINF:-1,AWANI, tvg-logo="https://i.imgur.com/YvvA9r1.png" group-title="MALAYSIA",
 http://syok.tv:25461/live/AABBCC/23456/50.m3u8
+
+
+
+
+#EXTINF:-1 tvg-id="AbuDhabiSports1.ae" tvg-logo="https://i.imgur.com/6BVWk8z.png" group-title="MALAYSIA",
+https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AbuDhabiSports2.ae" tvg-logo="https://i.imgur.com/4rVm3oZ.png" group-title="MALAYSIA",
+https://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/playlist.m3u8
