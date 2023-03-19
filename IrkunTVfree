@@ -1,7 +1,11 @@
 #EXTM3U
 
 #EXTINF:-1,test1, tvg-logo="https://i.imgur.com/QJCJNfe.jpg" group-title="MALAYSIA",
-http://210.210.155.37/dr9445/h/h02/index.m3u8
+https://shls-fight-sports-ak.akamaized.net/out/v1/ee7e6475b12e484bbfa5c31461ad4306/index.m3u8
+
+#EXTINF:-1,test1, tvg-logo="https://i.imgur.com/QJCJNfe.jpg" group-title="MALAYSIA",
+https://16live00.akamaized.net/CNBC/index.m3u8
+
 
 
 
