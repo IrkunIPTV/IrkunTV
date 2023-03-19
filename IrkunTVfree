@@ -1,6 +1,7 @@
 #EXTM3U
 
-
+#EXTINF:-1,test, tvg-logo="xxx" group-title="test",
+http://50.7.220.74:8278/fyi_twn/playlist.m3u8?ct=17988&tid=18186902&tsum=7a21abab0a5912afb0ebc01db111e59f
 
 
 
