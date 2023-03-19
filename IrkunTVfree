@@ -1,6 +1,7 @@
 #EXTM3U
 
-
+#EXTINF:-1,test1, tvg-logo="https://i.imgur.com/QJCJNfe.jpg" group-title="MALAYSIA",
+http://210.210.155.37/dr9445/h/h02/index.m3u8
 
 
 
