@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1,TESTING, tvg-logo="https://i.imgur.com/QJCJNfe.jpg" group-title="MALAYSIA",
+#EXTINF:-1,TEST, tvg-logo="https://i.imgur.com/QJCJNfe.jpg" group-title="MALAYSIA",
 https://livevideo01.wfaa.com/hls/live/2014541/newscasts/live.m3u8
 
 
