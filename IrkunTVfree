@@ -1,62 +1,59 @@
 #EXTM3U
 
 
-#EXTINF:-1 tvg-id="SukanRTM.my" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b2/Sukan_RTM_1_April.png" group-title="Undefined",Sukan RTM [Geo-blocked]
-https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/manifest.mpd
-
-#EXTINF:-1 tvg-id="AstroAwani.my" tvg-logo="https://i.imgur.com/dLzgBUj.png" group-title="Undefined",Astro Awani (720p)
-https://d2idp3hzkhjpih.cloudfront.net/out/v1/4b85d9c2bf97413eb0c9fd875599b837/index.m3u8
 
 
 
 
-#EXTINF:-1 tvg-id="eGGNetwork.my" tvg-logo="https://i.imgur.com/VyYo7NF.png" group-title="Undefined",Egg Network (720p)
-http://210.210.155.37/uq2663/h/h22/index.m3u8
-#EXTINF:-1 tvg-id="RTBGo.bn" tvg-logo="https://i.imgur.com/CGlzsD5.png" group-title="Undefined",RTB Go (720p)
-https://d1211whpimeups.cloudfront.net/smil:rtbgo/playlist.m3u8
-#EXTINF:-1 tvg-id="RTBSukmaindera.bn" tvg-logo="https://i.imgur.com/WpMGnTr.png" group-title="Undefined",RTB Sukmaindera (720p)
-https://d1211whpimeups.cloudfront.net/smil:rtb1/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Suria.sg" tvg-logo="https://i.imgur.com/9xWAwzy.png" group-title="Undefined",Suria [Geo-blocked]
-https://d11h6a6nhl9kj9.cloudfront.net/hls/clr4ctv_suria/master.m3u8
-#EXTINF:-1 tvg-id="TV3.my" tvg-logo="https://i.imgur.com/bHcZgIo.png" group-title="Undefined",TV3 (720p) [Geo-blocked]
-https://live-sg1.global.ssl.fastly.net/live-hls/tonton1.m3u8
-#EXTINF:-1 tvg-id="TV9.my" tvg-logo="https://i.imgur.com/Krh1F8d.png" group-title="Undefined",TV9 (720p) [Geo-blocked]
-https://live-sg1.global.ssl.fastly.net/live-hls/tonton4.m3u8
 
 
 
 LIVE TV
-#EXTINF:-1,TV1, tvg-logo="https://i.imgur.com/BCFulcd.png" group-title="MALAYSIA",
+#EXTINF:-1,TV1, tvg-logo="https://i.imgur.com/BCFulcd.png" group-title="irkuntv",
 http://syok.tv:25461/live/AABBCC/23456/1.m3u8
 
-#EXTINF:-1,TV2, tvg-logo="https://i.imgur.com/P95tYOO.png" group-title="MALAYSIA",
+#EXTINF:-1,TV2, tvg-logo="https://i.imgur.com/P95tYOO.png" group-title="irkuntv",
 http://syok.tv:25461/live/AABBCC/23456/3.m3u8
 
-#EXTINF:-1,TV3, tvg-logo="https://i.imgur.com/6IBx96Y.png" group-title="MALAYSIA",
+#EXTINF:-1,TV3, tvg-logo="https://i.imgur.com/6IBx96Y.png" group-title="irkuntv",
 https://live-xtra-sg1.global.ssl.fastly.net/live-hls/tonton1_720p/index.m3u8
 
-#EXTINF:-1,NTv7, tvg-logo="https://i.imgur.com/DLQLjEb.png" group-title="MALAYSIA",
+#EXTINF:-1,TV3 A, tvg-logo="https://i.imgur.com/bHcZgIo.png" group-title="irkuntv",
+https://live-sg1.global.ssl.fastly.net/live-hls/tonton1.m3u8
+
+#EXTINF:-1,NTv7, tvg-logo="https://i.imgur.com/DLQLjEb.png" group-title="irkuntv",
 https://live-xtra-sg1.global.ssl.fastly.net/live-hls/tonton2_720p/index.m3u8
 
-#EXTINF:-1,8TV, tvg-logo="https://i.imgur.com/dCXeqOB.png" group-title="MALAYSIA",
+#EXTINF:-1,8TV, tvg-logo="https://i.imgur.com/dCXeqOB.png" group-title="irkuntv",
 https://live-xtra-sg1.global.ssl.fastly.net/live-hls/tonton3_720p/index.m3u8
 
-#EXTINF:-1,TV9, tvg-logo="https://i.imgur.com/ulHvOa0.png" group-title="MALAYSIA",
+#EXTINF:-1,TV9, tvg-logo="https://i.imgur.com/ulHvOa0.png" group-title="irkuntv",
 https://live-xtra-sg1.global.ssl.fastly.net/live-hls/tonton4_720p/index.m3u8
 
-#EXTINF:-1,DRAMA SANGAT, tvg-logo="https://i.imgur.com/iQkn7v8.png" group-title="MALAYSIA",
+#EXTINF:-1,TV9 B, tvg-logo="https://i.imgur.com/Krh1F8d.png" group-title="irkuntv",
+https://live-sg1.global.ssl.fastly.net/live-hls/tonton4.m3u8
+
+#EXTINF:-1,DRAMA SANGAT, tvg-logo="https://i.imgur.com/iQkn7v8.png" group-title="irkuntv",
 https://live-xtra-sg1.global.ssl.fastly.net/live-hls/tonton5_720p/index.m3u8
 
-#EXTINF:-1,AWANI, tvg-logo="https://i.imgur.com/YvvA9r1.png" group-title="MALAYSIA",
-http://syok.tv:25461/live/AABBCC/23456/50.m3u8
+#EXTINF:-1, AstroAwani, tvg-logo="https://i.imgur.com/dLzgBUj.png" group-title="irkuntv",
+https://d2idp3hzkhjpih.cloudfront.net/out/v1/4b85d9c2bf97413eb0c9fd875599b837/index.m3u8
 
-#EXTINF:-1,BernamaTV, tvg-logo="https://i.imgur.com/skJjF4m.png" group-title=MALAYSIA",
+#EXTINF:-1,BernamaTV, tvg-logo="https://i.imgur.com/skJjF4m.png" group-title="irkuntv",
 https://ythls.onrender.com/channel/UCcZg5r9hBqK_VPUT2I7eYVw.m3u8
 
+#EXTINF:-1,SukanRTM, tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b2/Sukan_RTM_1_April.png" group-title="irkuntv",
+https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/manifest.mpd
 
-#EXTINF:-1,FightSports, tvg-logo="https://i.imgur.com/nV55veq.png" group-title="MALAYSIA",
+
+#EXTINF:-1,FightSports, tvg-logo="https://i.imgur.com/nV55veq.png" group-title="irkuntv",
 https://shls-fight-sports-ak.akamaized.net/out/v1/ee7e6475b12e484bbfa5c31461ad4306/index.m3u8
 
-#EXTINF:-1,AbuDhabiSports2, tvg-logo="https://i.imgur.com/4rVm3oZ.png" group-title="MALAYSIA",
+#EXTINF:-1,AbuDhabiSports2, tvg-logo="https://i.imgur.com/4rVm3oZ.png" group-title="irkuntv",
 https://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/playlist.m3u8
+
+#EXTINF:-1,RTBGo, tvg-logo="https://i.imgur.com/CGlzsD5.png" group-title="irkuntv",
+https://d1211whpimeups.cloudfront.net/smil:rtbgo/playlist.m3u8
+
+#EXTINF:-1,RTBSukmaindera, tvg-logo="https://i.imgur.com/WpMGnTr.png" group-title="irkuntv",
+https://d1211whpimeups.cloudfront.net/smil:rtb1/playlist.m3u8
