@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:-1,Pathaan, tvg-logo="https://ww69.ohflix.net/uploads/video_thumb/14463.jpg" group-title="irkuntv",
+https://ohflix-net.stackstaging.com/video.php?id=9c6ucusicwv1
+
 #EXTINF:-1,TESTING ARENA
 http://185.180.221.194:8278/streams/d/Arena/playlist.m3u8
 
