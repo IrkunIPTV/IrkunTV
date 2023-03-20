@@ -1,7 +1,19 @@
 #EXTM3U
 
-#EXTINF:-1,TEST
-https://ohflix-net.stackstaging.com/video.php?id=k7tq73whcqn6
+#EXTINF:-1,TESTING ARENA
+http://185.180.221.194:8278/streams/d/Arena/playlist.m3u8
+
+#EXTINF:-1,TESTING CERIA
+http://50.7.161.82:8278/streams/d/Ceria/playlist.m3u8
+
+#EXTINF:-1,TESTING OASIS
+http://50.7.161.82:8278/streams/d/Oasis/playlist.m3u8
+
+#EXTINF:-1,TESTING PRIMA
+http://185.180.221.194:8278/streams/d/Prima/playlist.m3u8
+
+#EXTINF:-1,TESTING STAR MOVIES
+http://syok.tv:25461/live/AABBCC/23456/116.m3u8
 
 
 
