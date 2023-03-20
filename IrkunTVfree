@@ -32,10 +32,10 @@ https://live-xtra-sg1.global.ssl.fastly.net/live-hls/tonton5_720p/index.m3u8
 #EXTINF:-1, AstroAwani, tvg-logo="https://i.imgur.com/dLzgBUj.png" group-title="irkuntv",
 https://d2idp3hzkhjpih.cloudfront.net/out/v1/4b85d9c2bf97413eb0c9fd875599b837/index.m3u8
 
-#EXTINF:-1,BernamaTV, tvg-logo="https://i.imgur.com/skJjF4m.png" group-title="irkuntv",
+#EXTINF:-1,BernamaTV, tvg-logo="https://i.imgur.com/mVZCBRo.png" group-title="irkuntv",
 https://ythls.onrender.com/channel/UCcZg5r9hBqK_VPUT2I7eYVw.m3u8
 
-#EXTINF:-1,SukanRTM, tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b2/Sukan_RTM_1_April.png" group-title="irkuntv",
+#EXTINF:-1,SukanRTM, tvg-logo="https://i.imgur.com/1mJbBjY.png" group-title="irkuntv",
 https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/manifest.mpd
 
 
