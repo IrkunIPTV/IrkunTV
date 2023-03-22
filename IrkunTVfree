@@ -16,8 +16,7 @@ https://shls-mbc3-eur-prod-dub.shahid.net/out/v1/fce09dd6a967431a871efb3b8dec9f8
 #EXTINF:-1 tvg-id="MBC3USA.us" tvg-logo="https://i.imgur.com/3ef4hDJ.png" group-title="Kids",MBC 3 USA (1080p)
 
 
-#EXTINF:-1,TESTING FILMSTREAM
-https://spi-filmstream-1-nl.samsung.wurl.tv/playlist.m3u8
+
 
 #EXTINF:-1,TESTING 2 FUELTV
 https://fueltv-fueltv-2-gb.samsung.wurl.com/manifest/playlist.m3u8
@@ -66,6 +65,9 @@ https://ythls.onrender.com/channel/UCcZg5r9hBqK_VPUT2I7eYVw.m3u8
 
 #EXTINF:-1,BloombergTV, tvg-logo="https://i.imgur.com/CcXMlOy.png" group-title="irkuntv",
 https://bloomberg.com/media-manifest/streams/eu.m3u8
+
+#EXTINF:-1,FILMSTREAM, tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a3/Filmstream_Stacked.svg/revision/latest?cb=20211214113114" group-title="irkuntv",
+https://spi-filmstream-1-nl.samsung.wurl.tv/playlist.m3u8
 
 #EXTINF:-1,Star Movies, tvg-logo="https://i.imgur.com/T3UdMo3.png" group-title="irkuntv",
 http://syok.tv:25461/live/AABBCC/23456/116.m3u8
