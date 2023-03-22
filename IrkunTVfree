@@ -1,10 +1,6 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="RakutenTVActionMoviesUK.uk" tvg-logo="https://i.imgur.com/uMcwx2p.jpg" group-title="Movies",Rakuten Action Movies UK (720p)
-https://rakuten-actionmovies-1-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="RakutenTVComedyMoviesUK.uk" tvg-logo="https://i.imgur.com/UrwA8Z3.png" group-title="Movies",Rakuten Comedy Movies UK (720p)
-https://rakuten-comedymovies-1-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="RakutenTVFamilyMoviesUK.uk" tvg-logo="https://i.imgur.com/hboiinD.jpg" group-title="Family;Movies",Rakuten Family UK (720p)
-https://rakuten-family-1-eu.rakuten.wurl.tv/playlist.m3u8
+
+
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",SportsGrid (1080p)
 https://sportsgrid-tribal.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="SportyStuffTV.uk" tvg-logo="https://i.imgur.com/6s1YGSV.png" group-title="Sports",SportyStuff TV (1080p)
@@ -75,6 +71,15 @@ https://bloomberg.com/media-manifest/streams/eu.m3u8
 
 #EXTINF:-1,Star Movies, tvg-logo="https://i.imgur.com/T3UdMo3.png" group-title="irkuntv",
 http://syok.tv:25461/live/AABBCC/23456/116.m3u8
+
+#EXTINF:-1,RakutenTVActionMoviesUK, tvg-logo="https://i.imgur.com/uMcwx2p.jpg" group-title="irkuntv",
+https://rakuten-actionmovies-1-eu.rakuten.wurl.tv/playlist.m3u8
+
+#EXTINF:-1,RakutenTVFamilyMoviesUK, tvg-logo="https://i.imgur.com/hboiinD.jpg" group-title="irkuntv",
+https://rakuten-family-1-eu.rakuten.wurl.tv/playlist.m3u8
+
+#EXTINF:-1,RakutenTVComedyMoviesUK, tvg-logo="https://i.imgur.com/UrwA8Z3.png" group-title="irkuntv",
+https://rakuten-comedymovies-1-eu.rakuten.wurl.tv/playlist.m3u8
 
 #EXTINF:-1,BoxHits, tvg-logo="https://i.imgur.com/s1BjLhS.png" group-title="irkuntv",
 https://csm-e-boxplus.tls1.yospace.com/csm/extlive/boxplus01,boxhits-alldev.m3u8?yo.up=http://boxtv-origin-elb.cds1.yospace.com/uploads/boxhits/
