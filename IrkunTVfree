@@ -15,7 +15,7 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/manifest.mpd
 #EXTINF:-1,TV3, tvg-logo="https://i.imgur.com/6IBx96Y.png" group-title="irkuntv",
 https://live-xtra-sg1.global.ssl.fastly.net/live-hls/tonton1_720p/index.m3u8
 
-#EXTINF:-1,TV3 A, tvg-logo="https://i.imgur.com/bHcZgIo.png" group-title="irkuntv",
+#EXTINF:-1,TV3-A, tvg-logo="https://i.imgur.com/6IBx96Y.png" group-title="irkuntv",
 https://live-sg1.global.ssl.fastly.net/live-hls/tonton1.m3u8
 
 #EXTINF:-1,NTv7, tvg-logo="https://i.imgur.com/DLQLjEb.png" group-title="irkuntv",
@@ -27,13 +27,13 @@ https://live-xtra-sg1.global.ssl.fastly.net/live-hls/tonton3_720p/index.m3u8
 #EXTINF:-1,TV9, tvg-logo="https://i.imgur.com/ulHvOa0.png" group-title="irkuntv",
 https://live-xtra-sg1.global.ssl.fastly.net/live-hls/tonton4_720p/index.m3u8
 
-#EXTINF:-1,TV9 B, tvg-logo="https://i.imgur.com/Krh1F8d.png" group-title="irkuntv",
+#EXTINF:-1,TV9-B, tvg-logo="https://i.imgur.com/ulHvOa0.png" group-title="irkuntv",
 https://live-sg1.global.ssl.fastly.net/live-hls/tonton4.m3u8
 
 #EXTINF:-1,DRAMA SANGAT, tvg-logo="https://i.imgur.com/iQkn7v8.png" group-title="irkuntv",
 https://live-xtra-sg1.global.ssl.fastly.net/live-hls/tonton5_720p/index.m3u8
 
-#EXTINF:-1, AstroAwani, tvg-logo="https://i.imgur.com/dLzgBUj.png" group-title="irkuntv",
+#EXTINF:-1, AstroAwani, tvg-logo="https://i.imgur.com/YvvA9r1.png" group-title="irkuntv",
 https://d2idp3hzkhjpih.cloudfront.net/out/v1/4b85d9c2bf97413eb0c9fd875599b837/index.m3u8
 
 #EXTINF:-1,BernamaTV, tvg-logo="https://i.imgur.com/mVZCBRo.png" group-title="irkuntv",
@@ -46,11 +46,16 @@ http://syok.tv:25461/live/AABBCC/23456/116.m3u8
 https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/manifest.mpd
 
 
-#EXTINF:-1,FightSports, tvg-logo="https://i.imgur.com/nV55veq.png" group-title="irkuntv",
+#EXTINF:-1,FightSports, tvg-logo="https://i.imgur.com/hJ7k5hD.png" group-title="irkuntv",
 https://shls-fight-sports-ak.akamaized.net/out/v1/ee7e6475b12e484bbfa5c31461ad4306/index.m3u8
 
-#EXTINF:-1,AbuDhabiSports2, tvg-logo="https://i.imgur.com/4rVm3oZ.png" group-title="irkuntv",
+#EXTINF:-1,AbuDhabiSports2, tvg-logo="https://i.imgur.com/o55QVxn.png" group-title="irkuntv",
 https://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/playlist.m3u8
+
+
+
+
+
 
 #EXTINF:-1,RTBGo, tvg-logo="https://i.imgur.com/CGlzsD5.png" group-title="irkuntv",
 https://d1211whpimeups.cloudfront.net/smil:rtbgo/playlist.m3u8
