@@ -1,22 +1,7 @@
 #EXTM3U
 
-#EXTINF:-1,Pathaan, tvg-logo="https://ww69.ohflix.net/uploads/video_thumb/14463.jpg" group-title="irkuntv",
-https://ohflix-net.stackstaging.com/video.php?id=9c6ucusicwv1
+#EXTINF:-1,TESTING
 
-#EXTINF:-1,TESTING ARENA
-http://185.180.221.194:8278/streams/d/Arena/playlist.m3u8
-
-#EXTINF:-1,TESTING CERIA
-http://50.7.161.82:8278/streams/d/Ceria/playlist.m3u8
-
-#EXTINF:-1,TESTING OASIS
-http://50.7.161.82:8278/streams/d/Oasis/playlist.m3u8
-
-#EXTINF:-1,TESTING PRIMA
-http://185.180.221.194:8278/streams/d/Prima/playlist.m3u8
-
-#EXTINF:-1,TESTING STAR MOVIES
-http://syok.tv:25461/live/AABBCC/23456/116.m3u8
 
 
 
@@ -53,6 +38,9 @@ https://d2idp3hzkhjpih.cloudfront.net/out/v1/4b85d9c2bf97413eb0c9fd875599b837/in
 
 #EXTINF:-1,BernamaTV, tvg-logo="https://i.imgur.com/mVZCBRo.png" group-title="irkuntv",
 https://ythls.onrender.com/channel/UCcZg5r9hBqK_VPUT2I7eYVw.m3u8
+
+#EXTINF:-1,Star Movies, tvg-logo="https://i.imgur.com/T3UdMo3.png" group-title="irkuntv",
+http://syok.tv:25461/live/AABBCC/23456/116.m3u8
 
 #EXTINF:-1,SukanRTM, tvg-logo="https://i.imgur.com/1mJbBjY.png" group-title="irkuntv",
 https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/manifest.mpd
