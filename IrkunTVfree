@@ -1,8 +1,7 @@
 #EXTM3U
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",SportsGrid (1080p)
-https://sportsgrid-tribal.amagi.tv/playlist.m3u8
+
 #EXTINF:-1 tvg-id="SportyStuffTV.uk" tvg-logo="https://i.imgur.com/6s1YGSV.png" group-title="Sports",SportyStuff TV (1080p)
 https://ayozat-live.secure2.footprint.net/egress/bhandler/ayozat/sportystufftv/manifest.m3u8
 #EXTINF:-1 tvg-id="KidsFlix.us" tvg-logo="https://i.imgur.com/4Pn0ADQ.png" group-title="Kids",KidsFlix (1080p) [Not 24/7]
@@ -72,13 +71,13 @@ https://bloomberg.com/media-manifest/streams/eu.m3u8
 #EXTINF:-1,Star Movies, tvg-logo="https://i.imgur.com/T3UdMo3.png" group-title="irkuntv",
 http://syok.tv:25461/live/AABBCC/23456/116.m3u8
 
-#EXTINF:-1,RakutenTVActionMoviesUK, tvg-logo="https://i.imgur.com/uMcwx2p.jpg" group-title="irkuntv",
+#EXTINF:-1,ActionMoviesUK, tvg-logo="https://i.imgur.com/uMcwx2p.jpg" group-title="irkuntv",
 https://rakuten-actionmovies-1-eu.rakuten.wurl.tv/playlist.m3u8
 
-#EXTINF:-1,RakutenTVFamilyMoviesUK, tvg-logo="https://i.imgur.com/hboiinD.jpg" group-title="irkuntv",
+#EXTINF:-1,FamilyMoviesUK, tvg-logo="https://i.imgur.com/hboiinD.jpg" group-title="irkuntv",
 https://rakuten-family-1-eu.rakuten.wurl.tv/playlist.m3u8
 
-#EXTINF:-1,RakutenTVComedyMoviesUK, tvg-logo="https://i.imgur.com/UrwA8Z3.png" group-title="irkuntv",
+#EXTINF:-1,ComedyMoviesUK, tvg-logo="https://i.imgur.com/UrwA8Z3.png" group-title="irkuntv",
 https://rakuten-comedymovies-1-eu.rakuten.wurl.tv/playlist.m3u8
 
 #EXTINF:-1,BoxHits, tvg-logo="https://i.imgur.com/s1BjLhS.png" group-title="irkuntv",
@@ -87,13 +86,14 @@ https://csm-e-boxplus.tls1.yospace.com/csm/extlive/boxplus01,boxhits-alldev.m3u8
 #EXTINF:-1,SukanRTM, tvg-logo="https://i.imgur.com/1mJbBjY.png" group-title="irkuntv",
 https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/manifest.mpd
 
-
 #EXTINF:-1,FightSports, tvg-logo="https://i.imgur.com/hJ7k5hD.png" group-title="irkuntv",
 https://shls-fight-sports-ak.akamaized.net/out/v1/ee7e6475b12e484bbfa5c31461ad4306/index.m3u8
 
 #EXTINF:-1,AbuDhabiSports2, tvg-logo="https://i.imgur.com/o55QVxn.png" group-title="irkuntv",
 https://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/playlist.m3u8
 
+#EXTINF:-1,SportsGrid, tvg-logo="https://mma.prnewswire.com/media/1201691/SportsGrid_Logo.jpg?p=facebook" group-title="irkuntv",
+https://sportsgrid-tribal.amagi.tv/playlist.m3u8
 
 
 
