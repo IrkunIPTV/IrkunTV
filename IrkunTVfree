@@ -72,23 +72,3 @@ https://sportsgrid-tribal.amagi.tv/playlist.m3u8
 https://ayozat-live.secure2.footprint.net/egress/bhandler/ayozat/sportystufftv/manifest.m3u8
 
 
-
-#EXTINF:-1,RTBGo, tvg-logo="https://i.imgur.com/CGlzsD5.png" group-title="irkuntv",
-https://d1211whpimeups.cloudfront.net/smil:rtbgo/playlist.m3u8
-
-#EXTINF:-1,RTBSukmaindera, tvg-logo="https://i.imgur.com/WpMGnTr.png" group-title="irkuntv",
-https://d1211whpimeups.cloudfront.net/smil:rtb1/playlist.m3u8
-
-
-
-#EXTINF:-1 tvg-id="KidsFlix.us" tvg-logo="https://i.imgur.com/4Pn0ADQ.png" group-title="irkuntv",
-https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=50
-#EXTINF:-1 tvg-id="KoogiTV.eg" tvg-logo="https://i.imgur.com/zojMTP9.png" group-title="irkuntv",
-https://5d658d7e9f562.streamlock.net/koogi.tv/koogi.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="LegoChannel.us" tvg-logo="https://i.imgur.com/xePwW13.png" group-title="irkuntv",
-https://legochannel-roku.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="Majid.ae" tvg-logo="https://i.imgur.com/TzOKMMy.png" group-title="irkuntv",
-https://admdn5.cdn.mangomolo.com/majid/smil:majid.stream.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="MBC3.ae" tvg-logo="https://i.imgur.com/UgDTRNv.png" group-title="irkuntv",
-https://shls-mbc3-eur-prod-dub.shahid.net/out/v1/fce09dd6a967431a871efb3b8dec9f82/index.m3u8
-#EXTINF:-1 tvg-id="MBC3USA.us" tvg-logo="https://i.imgur.com/3ef4hDJ.png" group-title="irkuntv",
