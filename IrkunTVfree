@@ -6,8 +6,7 @@ http://syok.tv:25461/live/ABC/234/122.m3u8
 #EXTINF:-1,HBO HD, tvg-logo="https://i.imgur.com/goBaCWO.png" group-title="..PREMIUM TEST-irkuntv",
 http://syok.tv:25461/live/ABC/234/97.m3u8
 
-#EXTINF:-1,ASSP 1, tvg-logo="https://i.imgur.com/goBaCWO.png" group-title="..PREMIUM TEST-irkuntv",
-http://syok.tv:25461/live/ABC/234/124.m3u8
+
 
 #EXTINF:-1,ASSP 2, tvg-logo="https://i.imgur.com/goBaCWO.png" group-title="..PREMIUM TEST-irkuntv",
 http://syok.tv:25461/live/ABC/234/125.m3u8
@@ -77,6 +76,9 @@ https://rakuten-comedymovies-1-eu.rakuten.wurl.tv/playlist.m3u8
 
 #EXTINF:-1,BoxHits, tvg-logo="https://i.imgur.com/s1BjLhS.png" group-title="irkuntv",
 https://csm-e-boxplus.tls1.yospace.com/csm/extlive/boxplus01,boxhits-alldev.m3u8?yo.up=http://boxtv-origin-elb.cds1.yospace.com/uploads/boxhits/
+
+#EXTINF:-1,ASSP 1, tvg-logo="https://i.imgur.com/O5EAw18.png" group-title="irkuntv",
+http://syok.tv:25461/live/ABC/234/124.m3u8
 
 #EXTINF:-1,SukanRTM, tvg-logo="https://i.imgur.com/1mJbBjY.png" group-title="irkuntv",
 https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/manifest.mpd
