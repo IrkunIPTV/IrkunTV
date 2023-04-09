@@ -42,7 +42,7 @@ https://bloomberg.com/media-manifest/streams/eu.m3u8
 https://spi-filmstream-1-nl.samsung.wurl.tv/playlist.m3u8
 
 #EXTINF:-1,Star Movies, tvg-logo="https://i.imgur.com/T3UdMo3.png" group-title="irkuntv",
-bit.ly/3nZGqc0
+http://syok.tv:25461/live/ABC/234/116.m3u8
 
 #EXTINF:-1,ActionMoviesUK, tvg-logo="https://i.imgur.com/uMcwx2p.jpg" group-title="irkuntv",
 https://rakuten-actionmovies-1-eu.rakuten.wurl.tv/playlist.m3u8
