@@ -2,8 +2,13 @@
 
 
 
+#EXTINF:-1,MY: Astro Vinmeen
 
+#EXTINF:-1,VAANAVIL, tvg-logo="https://i.imgur.com/BRiS3pi.png" group-title="irkuntv",
+http://syok.tv:25461/DK4567/456777/76
 
+#EXTINF:-1,VINMEEN, tvg-logo="https://i.imgur.com/25VPPJE.png" group-title="irkuntv",
+http://syok.tv:25461/DK4567/456777/77
 
 
 
