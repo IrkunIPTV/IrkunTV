@@ -1,10 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1,VAANAVIL, tvg-logo="https://i.imgur.com/BRiS3pi.png" group-title="irkuntv",
-http://syok.tv:25461/DK4567/456777/76
 
-#EXTINF:-1,VINMEEN, tvg-logo="https://i.imgur.com/25VPPJE.png" group-title="irkuntv",
-http://syok.tv:25461/DK4567/456777/77
 
 
 
@@ -49,6 +45,12 @@ https://ythls.onrender.com/channel/UCcZg5r9hBqK_VPUT2I7eYVw.m3u8
 
 #EXTINF:-1,BloombergTV, tvg-logo="https://i.imgur.com/CcXMlOy.png" group-title="irkuntv",
 https://bloomberg.com/media-manifest/streams/eu.m3u8
+
+#EXTINF:-1,VAANAVIL, tvg-logo="https://i.imgur.com/BRiS3pi.png" group-title="irkuntv",
+http://syok.tv:25461/DK4567/456777/76
+
+#EXTINF:-1,VINMEEN, tvg-logo="https://i.imgur.com/25VPPJE.png" group-title="irkuntv",
+http://syok.tv:25461/DK4567/456777/77
 
 #EXTINF:-1,FILMSTREAM, tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a3/Filmstream_Stacked.svg/revision/latest?cb=20211214113114" group-title="irkuntv",
 https://spi-filmstream-1-nl.samsung.wurl.tv/playlist.m3u8
