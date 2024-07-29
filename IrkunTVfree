@@ -84,10 +84,10 @@ https://sportsgrid-tribal.amagi.tv/playlist.m3u8
 #EXTINF:-1,SportyStuff, tvg-logo="https://i.imgur.com/6s1YGSV.png" group-title="irkuntv",
 https://ayozat-live.secure2.footprint.net/egress/bhandler/ayozat/sportystufftv/manifest.m3u8
 
-#EXTINF:-1,Jackass Forever (2022), tvg-logo="https://i.imgur.com/ibikPTS.jpg" group-title="VOD",
+#EXTINF:-1,Jackass Forever (2022), tvg-logo="https://i.imgur.com/ibikPTS.jpg" group-title="VOD irkuntv",
 https://www.dropbox.com/s/qvcfbmcr393a8fo/Jackass.Forever.2022.HARD-SUB.720p.WEBRip.x264.AAC-EmEsKyu.mkv?dl=1
 
-#EXTINF:-1,The Ice Demon (2021), tvg-logo="https://i.imgur.com/mWRi0vS.png" group-title="VOD",
+#EXTINF:-1,The Ice Demon (2021), tvg-logo="https://i.imgur.com/mWRi0vS.png" group-title="VOD irkuntv",
 https://onedrive.live.com/download?cid=082A4C05BAE6A044&resid=82A4C05BAE6A044%21109&authkey=ALXQDRXWvdCP4ik
 
 
