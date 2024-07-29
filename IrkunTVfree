@@ -85,6 +85,7 @@ https://sportsgrid-tribal.amagi.tv/playlist.m3u8
 https://ayozat-live.secure2.footprint.net/egress/bhandler/ayozat/sportystufftv/manifest.m3u8
 
 VOD:::
+#EXTINF:-1,VOD, tvg-logo="https:/" group-title="TEST",
 https://raw.githubusercontent.com/jromero88/iptv/master/VOD.m3u
 
 
