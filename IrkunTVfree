@@ -7,10 +7,10 @@ TEST
 -------------------------------------------------------------
 
 LIVE TV
-#EXTINF:-1,TV1, tvg-logo="https://i.imgur.com/BCFulcd.png" group-title="irkuntv",
+#EXTINF:-1,TV1, tvg-logo="https://i.imgur.com/7rNxNNI.png" group-title="irkuntv",
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/manifest.mpd
 
-#EXTINF:-1,TV2, tvg-logo="https://i.imgur.com/P95tYOO.png" group-title="irkuntv",
+#EXTINF:-1,TV2, tvg-logo="https://i.imgur.com/cv3Hkuy.png" group-title="irkuntv",
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/manifest.mpd
 
 #EXTINF:-1,TV3 DOWN, tvg-logo="https://i.imgur.com/6IBx96Y.png" group-title="irkuntv",
