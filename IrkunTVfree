@@ -60,14 +60,8 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/manifest.mpd
 #EXTINF:-1,FightSports, tvg-logo="https://i.imgur.com/hJ7k5hD.png" group-title="irkuntv - sport",
 https://shls-fight-sports-ak.akamaized.net/out/v1/ee7e6475b12e484bbfa5c31461ad4306/index.m3u8
 
-#EXTINF:-1,AbuDhabiSports2, tvg-logo="https://i.imgur.com/o55QVxn.png" group-title="irkuntv - sport",
-https://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/playlist.m3u8
-
 #EXTINF:-1,SportsGrid, tvg-logo="https://mma.prnewswire.com/media/1201691/SportsGrid_Logo.jpg?p=facebook" group-title="irkuntv - sport",
 https://sportsgrid-tribal.amagi.tv/playlist.m3u8
-
-#EXTINF:-1,SportyStuff, tvg-logo="https://i.imgur.com/6s1YGSV.png" group-title="irkuntv - sport",
-https://ayozat-live.secure2.footprint.net/egress/bhandler/ayozat/sportystufftv/manifest.m3u8
 
 :::::irkuntv - VOD::::::
 
