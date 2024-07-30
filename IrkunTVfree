@@ -56,7 +56,7 @@ https://csm-e-boxplus.tls1.yospace.com/csm/extlive/boxplus01,boxhits-alldev.m3u8
 
 :::::irkuntv - sport:::::
 
-#EXTINF:-1,SukanRTM, tvg-logo="https://i.imgur.com/1mJbBjY.png" group-title="irkuntv - sport",
+#EXTINF:-1,SukanRTM, tvg-logo="https://i.imgur.com/xOEhdwc.png" group-title="irkuntv - sport",
 https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/manifest.mpd
 
 #EXTINF:-1,FightSports, tvg-logo="https://i.imgur.com/hJ7k5hD.png" group-title="irkuntv - sport",
