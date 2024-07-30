@@ -16,79 +16,67 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/manifest.mpd
 #EXTINF:-1,TV3 DOWN, tvg-logo="https://i.imgur.com/6IBx96Y.png" group-title="irkuntv",
 https://unifi-live05.secureswiftcontent.com/UnifiHD/live03.mpd
 
-#EXTINF:-1,NTv7, tvg-logo="https://i.imgur.com/DLQLjEb.png" group-title="irkuntv",
+#EXTINF:-1,NTv7 DOWN, tvg-logo="https://i.imgur.com/DLQLjEb.png" group-title="irkuntv",
 https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/DidikTVKPM.m3u8
 
-#EXTINF:-1,8TV, tvg-logo="https://i.imgur.com/dCXeqOB.png" group-title="irkuntv",
+#EXTINF:-1,8TV DOWN, tvg-logo="https://i.imgur.com/dCXeqOB.png" group-title="irkuntv",
 https://live-xtra-sg1.global.ssl.fastly.net/live-hls/tonton3_720p/index.m3u8
 
-#EXTINF:-1,TV9, tvg-logo="https://i.imgur.com/ulHvOa0.png" group-title="irkuntv",
+#EXTINF:-1,TV9 DOWN, tvg-logo="https://i.imgur.com/ulHvOa0.png" group-title="irkuntv",
 https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/TV9.m3u8
 
 BACKUP TV9-B, tvg-logo="https://i.imgur.com/ulHvOa0.png" group-title="irkuntv",
 https://live-sg1.global.ssl.fastly.net/live-hls/tonton4.m3u8
 
-#EXTINF:-1,DRAMA SANGAT, tvg-logo="https://i.imgur.com/iQkn7v8.png" group-title="irkuntv",
+#EXTINF:-1,DRAMA SANGAT DOWN, tvg-logo="https://i.imgur.com/iQkn7v8.png" group-title="irkuntv",
 https://live-xtra-sg1.global.ssl.fastly.net/live-hls/tonton5_720p/index.m3u8
 
 #EXTINF:-1, AstroAwani, tvg-logo="https://i.imgur.com/YvvA9r1.png" group-title="irkuntv",
 https://d2idp3hzkhjpih.cloudfront.net/out/v1/4b85d9c2bf97413eb0c9fd875599b837/index.m3u8
 
-#EXTINF:-1,BernamaTV, tvg-logo="https://i.imgur.com/mVZCBRo.png" group-title="irkuntv",
-https://ythls.onrender.com/channel/UCcZg5r9hBqK_VPUT2I7eYVw.m3u8
-
 #EXTINF:-1,BloombergTV, tvg-logo="https://i.imgur.com/CcXMlOy.png" group-title="irkuntv",
 https://bloomberg.com/media-manifest/streams/eu.m3u8
 
-#EXTINF:-1,VAANAVIL, tvg-logo="https://i.imgur.com/BRiS3pi.png" group-title="irkuntv",
-https://agsplayback01.astro.com.my/CH3/master_VAANGOSHOP5.m3u8
-
-#EXTINF:-1,VINMEEN, tvg-logo="https://i.imgur.com/25VPPJE.png" group-title="irkuntv",
-http://syok.tv:25461/DK4567/456777/77
+::::irkuntv - movie::::
 
 #EXTINF:-1,FILMSTREAM, tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a3/Filmstream_Stacked.svg/revision/latest?cb=20211214113114" group-title="irkuntv",
 https://spi-filmstream-1-nl.samsung.wurl.tv/playlist.m3u8
 
-#EXTINF:-1,Star Movies, tvg-logo="https://i.imgur.com/T3UdMo3.png" group-title="irkuntv",
-http://syok.tv:25461/live/ABC/234/116.m3u8
-
-#EXTINF:-1,ActionMoviesUK, tvg-logo="https://i.imgur.com/uMcwx2p.jpg" group-title="irkuntv",
+#EXTINF:-1,ActionMoviesUK, tvg-logo="https://i.imgur.com/uMcwx2p.jpg" group-title="irkuntv - movie",
 https://rakuten-actionmovies-1-eu.rakuten.wurl.tv/playlist.m3u8
 
-#EXTINF:-1,FamilyMoviesUK, tvg-logo="https://i.imgur.com/hboiinD.jpg" group-title="irkuntv",
+#EXTINF:-1,FamilyMoviesUK, tvg-logo="https://i.imgur.com/hboiinD.jpg" group-title="irkuntv - movie",
 https://rakuten-family-1-eu.rakuten.wurl.tv/playlist.m3u8
 
-#EXTINF:-1,ComedyMoviesUK, tvg-logo="https://i.imgur.com/UrwA8Z3.png" group-title="irkuntv",
+#EXTINF:-1,ComedyMoviesUK, tvg-logo="https://i.imgur.com/UrwA8Z3.png" group-title="irkuntv - movie",
 https://rakuten-comedymovies-1-eu.rakuten.wurl.tv/playlist.m3u8
 
-#EXTINF:-1,CERIA, tvg-logo="https://i.imgur.com/yFqjN2D.png" group-title="irkuntv",
-http://syok.tv:25461/DK4567/456777/225
-
-#EXTINF:-1,BoxHits, tvg-logo="https://i.imgur.com/s1BjLhS.png" group-title="irkuntv",
+#EXTINF:-1,BoxHits, tvg-logo="https://i.imgur.com/s1BjLhS.png" group-title="irkuntv - movie",
 https://csm-e-boxplus.tls1.yospace.com/csm/extlive/boxplus01,boxhits-alldev.m3u8?yo.up=http://boxtv-origin-elb.cds1.yospace.com/uploads/boxhits/
 
-#EXTINF:-1,ARENA, tvg-logo="https://i.imgur.com/TGiCktx.png" group-title="irkuntv",
-http://syok.tv:25461/live/ABC/234/122.m3u8
+:::::irkuntv - sport:::::
 
-#EXTINF:-1,SukanRTM, tvg-logo="https://i.imgur.com/1mJbBjY.png" group-title="irkuntv",
+#EXTINF:-1,SukanRTM, tvg-logo="https://i.imgur.com/1mJbBjY.png" group-title="irkuntv - sport",
 https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/manifest.mpd
 
-#EXTINF:-1,FightSports, tvg-logo="https://i.imgur.com/hJ7k5hD.png" group-title="irkuntv",
+#EXTINF:-1,FightSports, tvg-logo="https://i.imgur.com/hJ7k5hD.png" group-title="irkuntv - sport",
 https://shls-fight-sports-ak.akamaized.net/out/v1/ee7e6475b12e484bbfa5c31461ad4306/index.m3u8
 
-#EXTINF:-1,AbuDhabiSports2, tvg-logo="https://i.imgur.com/o55QVxn.png" group-title="irkuntv",
+#EXTINF:-1,AbuDhabiSports2, tvg-logo="https://i.imgur.com/o55QVxn.png" group-title="irkuntv - sport",
 https://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/playlist.m3u8
 
-#EXTINF:-1,SportsGrid, tvg-logo="https://mma.prnewswire.com/media/1201691/SportsGrid_Logo.jpg?p=facebook" group-title="irkuntv",
+#EXTINF:-1,SportsGrid, tvg-logo="https://mma.prnewswire.com/media/1201691/SportsGrid_Logo.jpg?p=facebook" group-title="irkuntv - sport",
 https://sportsgrid-tribal.amagi.tv/playlist.m3u8
 
-#EXTINF:-1,SportyStuff, tvg-logo="https://i.imgur.com/6s1YGSV.png" group-title="irkuntv",
+#EXTINF:-1,SportyStuff, tvg-logo="https://i.imgur.com/6s1YGSV.png" group-title="irkuntv - sport",
 https://ayozat-live.secure2.footprint.net/egress/bhandler/ayozat/sportystufftv/manifest.m3u8
 
-#EXTINF:-1,Jackass Forever (2022), tvg-logo="https://i.imgur.com/ibikPTS.jpg" group-title="VOD irkuntv",
+:::::irkuntv - VOD::::::
+
+#EXTINF:-1,Jackass Forever (2022), tvg-logo="https://i.imgur.com/ibikPTS.jpg" group-title="irkuntv - VOD",
 https://www.dropbox.com/s/qvcfbmcr393a8fo/Jackass.Forever.2022.HARD-SUB.720p.WEBRip.x264.AAC-EmEsKyu.mkv?dl=1
 
-#EXTINF:-1,The Ice Demon (2021), tvg-logo="https://i.imgur.com/mWRi0vS.png" group-title="VOD irkuntv",
+#EXTINF:-1,The Ice Demon (2021), tvg-logo="https://i.imgur.com/mWRi0vS.png" group-title="irkuntv - VOD",
 https://onedrive.live.com/download?cid=082A4C05BAE6A044&resid=82A4C05BAE6A044%21109&authkey=ALXQDRXWvdCP4ik
 
 
