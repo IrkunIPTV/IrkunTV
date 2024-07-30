@@ -31,7 +31,7 @@ https://live-sg1.global.ssl.fastly.net/live-hls/tonton4.m3u8
 #EXTINF:-1,DRAMA SANGAT DOWN, tvg-logo="https://i.imgur.com/iQkn7v8.png" group-title="irkuntv",
 https://live-xtra-sg1.global.ssl.fastly.net/live-hls/tonton5_720p/index.m3u8
 
-#EXTINF:-1, AstroAwani, tvg-logo="https://i.imgur.com/YvvA9r1.png" group-title="irkuntv",
+#EXTINF:-1, AstroAwani, tvg-logo="https://i.imgur.com/ApOIpj7.png" group-title="irkuntv",
 https://d2idp3hzkhjpih.cloudfront.net/out/v1/4b85d9c2bf97413eb0c9fd875599b837/index.m3u8
 
 #EXTINF:-1,BloombergTV, tvg-logo="https://i.imgur.com/CcXMlOy.png" group-title="irkuntv",
@@ -76,7 +76,7 @@ https://ayozat-live.secure2.footprint.net/egress/bhandler/ayozat/sportystufftv/m
 #EXTINF:-1,Jackass Forever (2022), tvg-logo="https://i.imgur.com/ibikPTS.jpg" group-title="irkuntv - VOD",
 https://www.dropbox.com/s/qvcfbmcr393a8fo/Jackass.Forever.2022.HARD-SUB.720p.WEBRip.x264.AAC-EmEsKyu.mkv?dl=1
 
-#EXTINF:-1,Furiosa A Mad Max Saga 2024, tvg-logo="http" group-title="irkuntv - VOD",
+#EXTINF:-1,Furiosa A Mad Max Saga 2024, tvg-logo="https://i.imgur.com/LhMTmRF.png" group-title="irkuntv - VOD",
 https://e1shop2023.irkunusa.workers.dev/1:/MOVIE/2024/Furiosa%20A%20Mad%20Max%20Saga%202024-1-720.mp4
 
 
