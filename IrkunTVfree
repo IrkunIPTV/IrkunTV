@@ -34,7 +34,7 @@ https://live-xtra-sg1.global.ssl.fastly.net/live-hls/tonton5_720p/index.m3u8
 #EXTINF:-1, AstroAwani, tvg-logo="https://i.imgur.com/ApOIpj7.png" group-title="irkuntv",
 https://d2idp3hzkhjpih.cloudfront.net/out/v1/4b85d9c2bf97413eb0c9fd875599b837/index.m3u8
 
-#EXTINF:-1,BloombergTV, tvg-logo="https://i.imgur.com/CcXMlOy.png" group-title="irkuntv",
+#EXTINF:-1,BloombergTV, tvg-logo="https://i.imgur.com/uI6aLP0.png" group-title="irkuntv",
 https://bloomberg.com/media-manifest/streams/eu.m3u8
 
 ::::irkuntv - movie::::
@@ -51,8 +51,6 @@ https://rakuten-family-1-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1,ComedyMoviesUK, tvg-logo="https://i.imgur.com/UrwA8Z3.png" group-title="irkuntv - movie",
 https://rakuten-comedymovies-1-eu.rakuten.wurl.tv/playlist.m3u8
 
-#EXTINF:-1,BoxHits, tvg-logo="https://i.imgur.com/s1BjLhS.png" group-title="irkuntv - movie",
-https://csm-e-boxplus.tls1.yospace.com/csm/extlive/boxplus01,boxhits-alldev.m3u8?yo.up=http://boxtv-origin-elb.cds1.yospace.com/uploads/boxhits/
 
 :::::irkuntv - sport:::::
 
